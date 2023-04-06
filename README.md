@@ -17,8 +17,8 @@
 
 4. Installation
   
-   - Clone the repository to your local machine: ("git clone https://github.com/yourusername/tic-tac-toe-ai.git")
-   - Navigate to the project directory: ("cd tic-tac-toe-ai")
+   - Clone the repository to your local machine: ("git clone https://github.com/yourusername/Tic-Tac-Toe_AI.git")
+   - Navigate to the project directory: ("cd Tic-Tac-Toe_AI")
    - Run the game using Python: ("python3 game.py")
    
 5. Contribution
